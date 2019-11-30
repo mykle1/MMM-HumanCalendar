@@ -18,7 +18,7 @@ A different kind of calendar.
 
 ```
     {
-          disabled: f,
+          disabled: false,
         module: "MMM-HumanCalendar",
         position: "middle_center",
         config: {
